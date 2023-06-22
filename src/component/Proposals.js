@@ -45,12 +45,12 @@ function Proposalspage() {
                       <div className="mt-4 flex justify-between">
                         <div>
                           <Link
-                            to={`http://localhost:3000/details/${e.id}`}
+                            to={`https://my-store-app1.netlify.app/details/${e.id}`}
                             className="nav-link btn"
                             onClick={() => {
                               console.log(
                                 window.location.replace(
-                                  `http://localhost:3000/details/${e.id}`
+                                  `https://my-store-app1.netlify.app/details/${e.id}`
                                 )
                               );
                             }}
