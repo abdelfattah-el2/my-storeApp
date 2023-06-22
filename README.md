@@ -1,5 +1,5 @@
 # Getting Started with Create React App
- the link > ###https://my-store-app1.netlify.app/
+ the link > ### https://my-store-app1.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
